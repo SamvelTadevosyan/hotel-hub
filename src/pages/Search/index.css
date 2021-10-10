@@ -1,0 +1,35 @@
+.search-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.search-page .search-container {
+    display: flex;
+    padding: 0.5rem;
+}
+
+.search-page .item {
+    margin: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-page .item .label {
+    margin-right: 1rem;
+}
+
+.search-page .date-picker {
+    border: 0.1rem solid #30363d;
+    background-color: #161b22;
+    width: 100%;
+    height: 3rem;
+    border-radius: 0.5rem;
+    color: #8b949e;
+}

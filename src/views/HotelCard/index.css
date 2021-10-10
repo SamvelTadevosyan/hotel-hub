@@ -1,0 +1,20 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: 0.3rem;
+    padding: 1rem;
+    width: 48%;
+    border: 1px solid #30363d;
+}
+
+.card .row {
+    display: flex;
+    flex-direction: row;
+    margin: 0.3rem 0;
+}
+
+.card .row {
+    display: flex;
+    flex-direction: row;
+    margin: 0.3rem 0;
+}

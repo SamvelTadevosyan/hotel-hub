@@ -1,0 +1,8 @@
+.range-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.range-block .label {
+    margin-bottom: 0.5rem;
+}
